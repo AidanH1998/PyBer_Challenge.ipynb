@@ -29,3 +29,9 @@ The fare depend on distance and location, the further the distance the higher th
 
 Rural areas get less trips because less people use drivers in country sides. The Urban areas are the opposite because the drivers have a higher population meaning higher customers, usually when you order a driver, you are too lazy to take the public transportation system. Suburban area are in between urban and rural, they have less customers than urban drivers, but they still get more trips than rural driver.
 
+
+## Summary ##
+
+![Monthly Fare Per City Types](https://user-images.githubusercontent.com/100543143/160305994-4a308d1f-5702-425b-8874-d9d004caef91.png)
+
+As a driver where would you want to be a driver at? Urban setting is the clean answer because you are getting more rides because the population and the total amount of fares is higher, however the average fare ride per driver is much lower and that because of competition. Urban drivers have higher competition campared to the other city types, Rural areas have the least competition because there aren't many driver. If you look at the data the average fare per driver for rural settings the average is higher than Urban by $10, which is high. Overall the disparity is because driver believe that because the are more customers, the pay out will be higher, but rural drivers get more fare per driver, and because the driver believe that they try to go for more customers. The rural driver can't be the same as the urban drivers, in which the same amount of drivers because then majority of rural drives will be waiting days for a customer. These disparities are only because of situations, driver are more needed in urban setting than rural setting, and because the rural are getting more per ride doesn't mean that they don't get as much frequent customer.
